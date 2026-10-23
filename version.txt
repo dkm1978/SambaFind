@@ -1,2 +1,2 @@
-17
-https://github.com/dkm1978/RadioOnline/releases/download/v17/RadioOnline.apk
+1
+https://github.com/dkm1978/SambaFind/releases/download/v1/SambaFind.apk
